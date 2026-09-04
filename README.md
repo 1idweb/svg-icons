@@ -24,9 +24,7 @@ Original logos are either downloaded from [Commons.WikiMedia.org](https://common
 #### icon-ui-box24/
 Like for Google Material Icons, the main area of the image itself is _more or less_ **20x20** pixels so they all ook the same regardless of their shapes. Somes are duplicatas from Material Symbols that I simply optimized and renamed for my convinience.
 
-### img/
 
-This repository is dedicated to vector images I've created for various professional projects without the client acquiring any specific copyrights. These are images that the client doesn't even know I created myself for their project.
 
 
 
