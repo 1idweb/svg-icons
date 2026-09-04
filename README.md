@@ -1,4 +1,4 @@
-# svg-uid
+# svgs-1id
 Cleaned, simplified and optimized icons and vectorial illustrations. icons for 24x24 viewBox. Corporative logos and Ui icons matching Material Icons and Symbols that are just not available.
 
 I take pride in coding simplified shapes. Unifying (merging) paths that don't requires to be individual by design.
