@@ -18,3 +18,9 @@ Like for Google Material Icons, the main area of the image itself is more or les
 ### `img/`
 
 This directory is dedicated to vector images I've created for various professional projects without the client acquiring any specific copyrights. These are images that the client doesn't even know I created myself for their project.
+
+### `logo24/`
+
+Original logos are either downloaded from [Commons.WikiMedia.org](https://commons.wikimedia.org/) or from the officials websites of the brands.
+
+&nbsp;
