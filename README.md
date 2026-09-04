@@ -9,18 +9,22 @@ All **monochrome icons** are coded with `style="fill:currentColor"` so you don't
 
 ## Repositories
 
-### `icon24/`
+### icon-*-box24/
 
-A set of icons optimized for 24x24 viewBox.
+* `*-box24.svg` : This suffix indicates an icon optimized for a **square aspect-ratio** that displays by default to 24x24 pixels  (`viewBox="0 0 24 24"`).
 
-Like for Google Material Icons, the main area of the image itself is more or less 20x20 pixels so they all ook the same regardless of their shapes.
+* `data-author` : I use the this attribute to informe who designed the icon and, when relevant, the original name from the Material library if you ever need to find it.
 
-### `img/`
-
-This directory is dedicated to vector images I've created for various professional projects without the client acquiring any specific copyrights. These are images that the client doesn't even know I created myself for their project.
-
-### `logo24/`
-
+#### icon-brand-box24/
 Original logos are either downloaded from [Commons.WikiMedia.org](https://commons.wikimedia.org/) or from the officials websites of the brands.
+
+#### icon-ui-box24/
+Like for Google Material Icons, the main area of the image itself is _more or less_ **20x20** pixels so they all ook the same regardless of their shapes. Somes are duplicatas from Material Symbols that I simply optimized and renamed for my convinience.
+
+### img/
+
+This repository is dedicated to vector images I've created for various professional projects without the client acquiring any specific copyrights. These are images that the client doesn't even know I created myself for their project.
+
+
 
 &nbsp;
