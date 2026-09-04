@@ -13,9 +13,12 @@ All **monochrome icons** are coded with `style="fill:currentColor"` so you don't
 
 * `*-box24.svg` : This suffix indicates an icon optimized for a **square aspect-ratio** that displays by default to 24x24 pixels  (`viewBox="0 0 24 24"`).
 
-* `data-author` : I use the this attribute to informe who designed the icon and, when relevant, the original name from the Material library if you ever need to find it.
+* `*-box24-color.svg` : These brand icons are more complexe. Most have multiple paths and many have more then one colors that I try to manage via **CSS classnames** so we can access theire `fill` values from an external stylesheet.
+
+* `data-author` : I use the this attribute to informe **who designed it** and, when relevant, the original name from the library if you ever need to find it.
 
 #### icon-brand-box24/
+
 Original logos are either downloaded from [Commons.WikiMedia.org](https://commons.wikimedia.org/) or from the officials websites of the brands.
 
 #### icon-ui-box24/
