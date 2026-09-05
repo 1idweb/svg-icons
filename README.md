@@ -1,31 +1,23 @@
-# svgs-1id
-Cleaned, simplified and optimized icons and vectorial illustrations. icons for 24x24 viewBox. Corporative logos and Ui icons matching Material Icons and Symbols that are just not available.
+# svg-icons
+Clean, simplified, and optimized company logos and user interface icons.
 
 I take pride in coding simplified shapes. Unifying (merging) paths that don't requires to be individual by design.
 
-All **monochrome icons** are coded with `style="fill:currentColor"` so you don't need to edit their code to adjust the color. Simply set the CSS text `color` attribute on the parent container to apply the color to the icons (when the design allowes it). 
+## Technical details
 
-> _Read more about CSS keyword_ [`currentColor`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value#currentcolor_keyword)
+* **`*-color`** : These are brands official colors. Most are are more complexe XML files; They have multiple paths and many have more then one colors. I try to manage color values via **CSS classnames** so we can access theire `fill` values from an external stylesheet.
+* **Monochrome icons** : These are coded with `style="fill:currentColor"` so you don't need to edit their code to adjust the color. To apply a custom color simply set the CSS text `color` attribute on the parent container so the child icon will inherit that color value. _Read more about CSS keyword_ [`currentColor`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value#currentcolor_keyword).
+* **`data-author`** : I use this attribute to inform **who designed it** and, when relevant, the original names when from the library so you can find it if you ever need to.
+* **Dimensions** :
+   * **`box24`** : This suffix indicates an icon optimized for a **square aspect-ratio** that displays by default to 24x24 pixels  (`viewBox="0 0 24 24"`).
+   * **20x20 inner area** : Like for Google Material Icons, the main area of the image itself is _more or less_ 20x20 (pixels) so they all look the same regardless of their shapes. 
 
 ## Repositories
 
-### icon-*-box24/
-
-* `*-box24.svg` : This suffix indicates an icon optimized for a **square aspect-ratio** that displays by default to 24x24 pixels  (`viewBox="0 0 24 24"`).
-
-* `*-box24-color.svg` : These brand icons are more complexe. Most have multiple paths and many have more then one colors that I try to manage via **CSS classnames** so we can access theire `fill` values from an external stylesheet.
-
-* `data-author` : I use the this attribute to informe **who designed it** and, when relevant, the original name from the library if you ever need to find it.
-
-#### icon-brand-box24/
-
-Original logos are either downloaded from [Commons.WikiMedia.org](https://commons.wikimedia.org/) or from the officials websites of the brands.
-
-#### icon-ui-box24/
-Like for Google Material Icons, the main area of the image itself is _more or less_ **20x20** pixels so they all ook the same regardless of their shapes. Somes are duplicatas from Material Symbols that I simply optimized and renamed for my convinience.
-
-
-
+1. [icon-brand-box24/](/icon-brand-box24/)
+   > Original logos are either downloaded from [Commons.WikiMedia.org](https://commons.wikimedia.org/) or from the officials websites of the brands.
+1. [icon-ui-box24/](/icon-ui-box24/)
+   > Somes are duplicatas from Material Symbols that I simply optimized and renamed for my convinience.
 
 
 &nbsp;
