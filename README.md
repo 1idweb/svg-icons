@@ -1,4 +1,4 @@
-# ![wiki tab](https://martindube.net/assets/img/ext/github_repositories-martindubenet_heading--02.svg) svg-icons
+# ![wiki tab](https://1idweb.com/1id-assets/img/ext/github_1idweb-repositories_heading--01.svg) svg-icons
 Clean, simplified, and optimized company logos and user interface icons.
 
 I take pride in coding simplified shapes. Unifying (merging) paths that don't requires to be individual by design.
