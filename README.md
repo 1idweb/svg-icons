@@ -17,6 +17,8 @@ I take pride in coding simplified shapes. Unifying (merging) paths that don't re
 
 1. [icon-brand-box24/](/icon-brand-box24/)
    > Original logos are either downloaded from [Commons.WikiMedia.org](https://commons.wikimedia.org/) or from the officials websites of the brands.
+1. [icon-figma-box24/](/icon-figma-box24/)
+   > Significant Figma icons used in their GUI.
 1. [icon-ui-box24/](/icon-ui-box24/)
    > Somes are duplicatas from Material Symbols that I simply optimized and renamed for my convinience.
 
